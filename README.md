@@ -80,13 +80,31 @@ A Java-based desktop text editor that showcases the power of Data Structures and
 
 ## 📸 Screenshots
 
-Add screenshots here to showcase the interface!
+The main interface of the Smart Text Editor is designed for simplicity and productivity, particularly for programming tasks.
 
-markdown
 ![Smart Text Editor Screenshot](Mainpage.png)
 
+🧾 1. Code Editor Panel (Left Side)
+   --
+Primary workspace for writing and editing code.
 
----
+Supports syntax highlighting (as seen with keywords like public, class, etc.).
+
+Handles indentation and formatting for better readability.
+
+Compatible with Java (as shown), and possibly extendable for other languages.
+
+2. Code Outline Panel (Right Side)
+   --
+Displays a structural overview of the code.
+
+Helps in quickly navigating through the program by listing declarations like:
+
+Classes,Methods,Access modifiers,
+
+Automatically updates as the code changes.
+
+![Smart Text Editor Screenshot](Mainpage.png)
 
 ## 🌱 Future Enhancements
 
