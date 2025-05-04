@@ -66,10 +66,8 @@ A Java-based desktop text editor that showcases the power of Data Structures and
 
 1. Clone this repository:
 
-   bash
-   git clone https://github.com/your-username/smart-text-editor.git
+  https://github.com/EswarGorantla/Smart-Text-Editor
    
-
 2. Open the project in your favorite Java IDE (IntelliJ, Eclipse, NetBeans).
 
 3. Compile and run SmartTextEditor.java.
