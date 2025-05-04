@@ -145,6 +145,8 @@ Contains:
 
 🧠 Typical use: Text manipulation and navigation.
 
+![Smart Text Editor Screenshot](Editpage.png)
+
 3. History Menu
    --
  This menu is less common and is a nice feature for an editor:
@@ -154,6 +156,10 @@ Contains:
 * Revert to Previous Version: Possibly allows rolling back to earlier versions.
 
 * Compare Versions: May allow visual diff between two versions of the document.
+
+  ![Smart Text Editor Screenshot](History.png)
+
+---
 
 ## 🌱 Future Enhancements
 
