@@ -86,25 +86,74 @@ The main interface of the Smart Text Editor is designed for simplicity and produ
 
 🧾 1. Code Editor Panel (Left Side)
    --
-Primary workspace for writing and editing code.
+* Primary workspace for writing and editing code.
 
-Supports syntax highlighting (as seen with keywords like public, class, etc.).
+* Supports syntax highlighting (as seen with keywords like public, class, etc.).
 
-Handles indentation and formatting for better readability.
+* Handles indentation and formatting for better readability.
 
-Compatible with Java (as shown), and possibly extendable for other languages.
+* Compatible with Java (as shown), and possibly extendable for other languages.
 
 2. Code Outline Panel (Right Side)
    --
-Displays a structural overview of the code.
+* Displays a structural overview of the code.
 
-Helps in quickly navigating through the program by listing declarations like:
+* Helps in quickly navigating through the program by listing declarations like:
+  Classes,Methods,Access modifiers,
 
-Classes,Methods,Access modifiers,
+* Automatically updates as the code changes.
 
-Automatically updates as the code changes.
+![Smart Text Editor Screenshot](Rightpage.png)
 
-![Smart Text Editor Screenshot](Mainpage.png)
+📋 Menu Bar – Smart Text Editor
+---
+Located at the top of the editor window, the menu bar provides access to key features through three dropdown menus:
+
+1. File Menu
+   --
+ Likely options include:
+
+* New: Creates a new, blank document.
+
+* Open: Opens an existing file from the system.
+
+* Save / Save As: Saves the current file.
+
+* Close: Closes the current document tab or the entire editor.
+
+* Exit: Closes the application.
+
+🧠 Typical use: File management operations.
+
+![Smart Text Editor Screenshot](Filepage.png)
+
+2. Edit Menu
+   --
+Contains:
+
+* Undo: Reverts the last change (confirmed by status bar showing Undo: 3).
+
+* Redo: Re-applies an undone change.
+
+* Cut: Removes selected text and copies it to the clipboard.
+
+* Copy: Copies selected text.
+
+* Paste: Pastes content from the clipboard.
+
+* Select All: Highlights the entire content.
+
+🧠 Typical use: Text manipulation and navigation.
+
+3. History Menu
+   --
+ This menu is less common and is a nice feature for an editor:
+
+* View Edit History: Shows a timeline or list of edits made to the document.
+
+* Revert to Previous Version: Possibly allows rolling back to earlier versions.
+
+* Compare Versions: May allow visual diff between two versions of the document.
 
 ## 🌱 Future Enhancements
 
