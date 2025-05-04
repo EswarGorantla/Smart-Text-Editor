@@ -1,3 +1,4 @@
+//This is the main GUI
 import javax.swing.*; 
 
 import javax.swing.event.*; 
