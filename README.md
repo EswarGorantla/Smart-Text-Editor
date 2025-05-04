@@ -83,7 +83,7 @@ A Java-based desktop text editor that showcases the power of Data Structures and
 Add screenshots here to showcase the interface!
 
 markdown
-![Smart Text Editor Screenshot](screenshots/editor.png)
+![Smart Text Editor Screenshot](Screenshot 2025-05-04 172600.png)
 
 
 ---
